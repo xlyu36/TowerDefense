@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+**/.idea
+**.DS_Store
+**/javafx-sdk-17.0.0.1
+**/out
+**.iml
+**.xml
+**.txt
+**.class
+!README.txt
